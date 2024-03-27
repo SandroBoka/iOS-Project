@@ -17,7 +17,7 @@ Naslov commit poruke treba odgovarati nazivu ID zadatka iz exellice, na primjer 
 
 ## Korištenje GIT-a
 
-Osnovne naredbe:
+Osnovne naredbe (ili koristi GitHub Desktop):
 
     - git clone - ako nemaš lokalnu kopiju repozitorija sa ovom naredbom klonirate repozitorij (Kad uđeš na repozitorij na GitHub, klik na zeleni gump <> Code i kopiraj link)
     - git status 
@@ -35,7 +35,6 @@ Osnovne naredbe:
     - git push
         - poslati nove izmjene na udaljeni repozitorij
         - sa ovim salješ sve izmjene, mozeš koristiti git push origin ime-grane-za-poslati
-
 
 Zaključak uputa za korištenje:
     - ne koristiti grane main i develop, koristiti nove grane za feature koje radiš
